@@ -6,6 +6,6 @@
 
     <form action="http://mobilefringe.createsend.com/t/d/s/idhrhr/" method="post" id="subForm">
         <input id="fieldEmail" name="cm-idhrhr-idhrhr" type="email" required placeholder="your email" class="email_input"/><br>
-        <button type="submit">Submit</button>
+        <button type="submit" class="submit_btn">Submit</button>
     </form>
 </div>
