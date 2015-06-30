@@ -5,12 +5,7 @@
     <p>The Phone Finder Service on the Rogers and Fido network service will be launching very soon.  Sign up below with your email to receive a free month at launch and be the first to know when Phone Finder launches.</p>
 
     <form action="http://mobilefringe.createsend.com/t/d/s/idhrhr/" method="post" id="subForm">
-        <p>
-           
-            <input id="fieldEmail" name="cm-idhrhr-idhrhr" type="email" required placeholder="your email"/>
-        </p>
-        <p>
-            <button type="submit">Submit</button>
-        </p>
+        <input id="fieldEmail" name="cm-idhrhr-idhrhr" type="email" required placeholder="your email"/>
+        <button type="submit">Submit</button>
     </form>
 </div>
