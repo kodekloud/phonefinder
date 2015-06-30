@@ -10,7 +10,7 @@
      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
     
-     ga('create', '', 'auto');
+     ga('create', 'UA-50587834-45', 'auto');
      ga('send', 'pageview');
   </script>
   <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,800,inherit,400,700" rel="stylesheet" type="text/css">
