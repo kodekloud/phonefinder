@@ -38,6 +38,7 @@ body {
 .container_div p {
     color:white;
     font-family:helvetica;
+    font-size:18px;
 }
 
 .email_input{
