@@ -87,3 +87,15 @@ body {
       margin-top: 25px;
       font-size: 18px;
 }
+
+
+@media (max-width: 767px) {
+    .container_div{
+        width:90%;
+    }
+    
+    .email_input, .submit_btn{
+        width:100%
+    }
+    
+}
