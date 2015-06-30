@@ -1,0 +1,7 @@
+<img class="logo" style="margin-top:160px" src="http://assets.kodekloud.io/sites/559303b26e6f642888000000/880712e19fc89012729ee6606c95a1cf/thankyou.png" alt="logo"/>
+<div class="container_div">
+    <p>You will hear from us soon. 
+    </p>
+    
+    <button  class="submit_btn" onclick="window.location.href='/home'">Back</button>
+</div>
