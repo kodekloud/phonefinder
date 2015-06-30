@@ -1,7 +1,22 @@
-html { 
-  background: url("http://assets.kodekloud.io/sites/5592f9b56e6f647f9a000000/54c72855e3d213f14a77bc33e20b287e/pf_bg.jpg") no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+body {
+  /* Location of the image */
+  background-image: url(http://assets.kodekloud.io/sites/5592f9b56e6f647f9a000000/54c72855e3d213f14a77bc33e20b287e/pf_bg.jpg);
+  
+  /* Background image is centered vertically and horizontally at all times */
+  background-position: center center;
+  
+  /* Background image doesn't tile */
+  background-repeat: no-repeat;
+  
+  /* Background image is fixed in the viewport so that it doesn't move when 
+     the content's height is greater than the image's height */
+  background-attachment: fixed;
+  
+  /* This is what makes the background image rescale based
+     on the container's size */
   background-size: cover;
+  
+  /* Set a background color that will be displayed
+     while the background image is loading */
+  background-color: #464646;
 }
