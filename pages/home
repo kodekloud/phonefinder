@@ -2,8 +2,8 @@
 <div class="container_div">
     <form action="http://mobilefringe.createsend.com/t/d/s/idhrhr/" method="post" id="subForm">
         <p>
-            <label for="fieldEmail">Email</label><br />
-            <input id="fieldEmail" name="cm-idhrhr-idhrhr" type="email" required />
+           
+            <input id="fieldEmail" name="cm-idhrhr-idhrhr" type="email" required placeholder="your email"/>
         </p>
         <p>
             <button type="submit">Subscribe</button>
