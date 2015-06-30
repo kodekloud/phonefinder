@@ -42,6 +42,11 @@ body {
 }
 
 .email_input{
+    background:white;
+    border:1px solid white;
+    height:40px;
+    width:60%;
+    text-align:center;
     
 }
 
